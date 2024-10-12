@@ -1,0 +1,4 @@
+com\details\emailDetails.class
+com\mail\EmailSender.class
+com\servlet\EmailServer.class
+com\mail\EmailSender$1.class
